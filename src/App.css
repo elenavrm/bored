@@ -1,0 +1,22 @@
+body {
+  background-color: #7fb4fb;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f69554;
+  border: none;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+}
+
+h1,h3 {
+  font-family: 'Roboto', sans-serif;
+}
